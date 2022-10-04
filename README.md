@@ -1,5 +1,3 @@
-Hi :)
-
 # Freemote-JavaScript-Coding-Challenges
 
 Live webpage can be viewed at: https://christianpaterson.github.io/JavaScript-Coding-Challenges
